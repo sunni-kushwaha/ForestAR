@@ -1,7 +1,7 @@
 # **ForestAR 🌲📱**  
 ### **Visualize Forest Point Clouds in Augmented Reality (AR) on Android**  
 
-![ForestAR Banner](https://your-image-url.com) *(Replace with an actual image or remove this line)*  
+![ForestAR Banner](images/screengrab.jpg)
 
 ## **📌 About**  
 **ForestAR** is an Android application that allows users to view **forest point cloud data** in **Augmented Reality (AR)**. Using ARCore, the app enables immersive visualization of 3D forest environments for research, education, and forestry applications.  
@@ -16,7 +16,7 @@
 *(Add screenshots of the app here for better engagement)*  
 
 ## **📥 Download APK**  
-🔗 **[Download Latest APK](https://your-apk-link.com)** *(Replace with actual link to the APK file hosted in GitHub releases)*  
+🔗 **[Download Latest APK](https://your-apk-link.com)** 
 
 To install manually:  
 1. Download the APK file.  
