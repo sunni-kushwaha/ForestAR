@@ -38,6 +38,7 @@ To install manually:
 
 ### **Repository Manager & Collaborator**  
 🔧 **Sunni Kanta Prasad Kushwaha**  
+📧 s.k.p.kushwaha92@gmail.com
 🌐 [Website](http://www.skpkushwaha.in/) 
 📍 **GitHub:** [sunni-kushwaha](https://github.com/sunni-kushwaha)  
 
