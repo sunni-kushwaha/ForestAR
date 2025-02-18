@@ -33,13 +33,13 @@ To install manually:
 ### **Lead Developer & Creator**  
 🛠️ **Abhishek Rai**  
 📧 abhishek_r@ce.iitr.ac.in, abhishekrai921@gmail.com 
-🌐 [Website]([https://abhishekrai921.github.io/]) 
-📍 **GitHub:** [yourgithub](https://github.com/abhishekrai921)  
+🌐 [Website](https://abhishekrai921.github.io/) 
+📍 **GitHub:** [abhishekrai921](https://github.com/abhishekrai921)  
 
 ### **Repository Manager & Collaborator**  
 🔧 **Sunni Kanta Prasad Kushwaha**  
-🌐 [Website]([http://www.skpkushwaha.in/]) 
-📍 **GitHub:** [collaboratorgithub](https://github.com/sunni-kushwaha)  
+🌐 [Website]([http://www.skpkushwaha.in/) 
+📍 **GitHub:** [sunni-kushwaha](https://github.com/sunni-kushwaha)  
 
 ## **🤝 Contributing**  
 Want to improve ForestAR? Contributions are welcome!  
@@ -50,5 +50,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## **📧 Contact**  
 For inquiries or collaborations, reach out at:  
 📩 **s.k.p.kushwaha92@gmail.com, abhishek_r@ce.iitr.ac.in**  
-🌐 **[Your Website](https://your-website.com)** *(Optional)*  
 
