@@ -16,7 +16,7 @@
 *(Will be updated shortly)*  
 
 ## **📥 Download APK**  
-🔗 **[Download Latest APK](https://your-apk-link.com)** *(Will be updated shortly)* 
+🔗 **[Download Latest APK](https://github.com/sunni-kushwaha/ForestAR/releases/download/v0.9/forestAR_vAlpha.apk)**
 
 To install manually:  
 1. Download the APK file.  
