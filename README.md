@@ -13,10 +13,10 @@
 ✅ Smooth rendering for a realistic experience  
 
 ## **📱 Screenshots**  
-*(Add screenshots of the app here for better engagement)*  
+*(Will be updated shortly)*  
 
 ## **📥 Download APK**  
-🔗 **[Download Latest APK](https://your-apk-link.com)** 
+🔗 **[Download Latest APK](https://your-apk-link.com)** *(Will be updated shortly)* 
 
 To install manually:  
 1. Download the APK file.  
